@@ -392,17 +392,17 @@ footer{
         font-size: 30px;
     }
 
-    /*ESTILO SERVIÇOES*/
+    /*ESTILO Abaixo*/
     section.servicos{
         padding: 40px 8%;
     }
 
-    /*biografia*/
+    /*destaque*/
     section.destaque{
         padding: 80px 8%;
     }
 
-    .biografia .txt-destaque h2{
+    .destaque .txt-destaque h2{
         font-size: 35px;
         line-height: 35px;
         text-align: center;
@@ -415,7 +415,7 @@ footer{
         width: 100%; 
     }
 
-    /*projetos*/
+    /*filmesgratis*/
     section.filmes{
         padding: 80px 8%;
     }
